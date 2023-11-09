@@ -7,7 +7,7 @@
 
 
 
-        SqlConnection con = new SqlConnection(@"Data Source=LAPTOP-3R1CEIVI;Initial Catalog=emplyee;Integrated Security=True;Pooling=False");
+        SqlConnection con = new SqlConnection(@"Data Source=");
 
         public object ConfigurationManager { get; private set; }
 
